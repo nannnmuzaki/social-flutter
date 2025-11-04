@@ -8,16 +8,34 @@ Aplikasi SocialX adalah aplikasi media sosial sederhana yang dibangun menggunaka
 
 ### Login
 
-<img src="screenshots/login.png" alt="Demo tugas 2" height="600">
+<img src="screenshots/login.png" alt="social_getx_login" height="600">
 
 ---
 
 ### Register
 
-<img src="screenshots/register.png" alt="Demo tugas 3" height="600">
+<img src="screenshots/register.png" alt="social_getx_register" height="600">
 
 ---
 
 ### Home
 
-<img src="screenshots/home.png" alt="Demo tugas 4" height="600">
+<img src="screenshots/home.png" alt="social_getx_home" height="600">
+
+---
+
+### Profile
+
+<img src="screenshots/profile.png" alt="social_getx_profile" height="600">
+
+---
+
+### Settings
+
+<img src="screenshots/settings.png" alt="social_getx_settings" height="600">
+
+---
+
+### Logout
+
+<img src="screenshots/logout.png" alt="social_getx_logout" height="600">
